@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elmeskyny</h1>
-<h3 align="center">Hi , i'am ahmed 👋 a freelance full stack web developer based in morocco and a Data science and cloud computing student at ENSAO . Powered by Figma, VS Code and coffee i enjoy building everything from small business sites to rich interactive web apps</h3>
 
 - 👨‍💻 All of my projects are available at [https://ahmedelmeskyny.vercel.app/](https://ahmedelmeskyny.vercel.app/)
 
@@ -9,7 +8,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-el-b570041b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ahmed-el-b570041b5/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/itsmeahmedelmeskyny/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/itsmeahmedelmeskyny/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ahmed_e_l/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/ahmed_e_l/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
